@@ -14,6 +14,7 @@ valor = 10
 valor2 = 0
 
 resultado = valor/valor2
+
 print("El resultado es " % resultado)
 
 

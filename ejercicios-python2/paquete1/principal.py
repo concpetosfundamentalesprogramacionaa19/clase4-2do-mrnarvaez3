@@ -1,6 +1,7 @@
 """
     Para llamar a paquetes de la misma altura
 """
+# importamos paquetes 
 import sys
 sys.path.append('../')
 from paquete2.variables import limite
